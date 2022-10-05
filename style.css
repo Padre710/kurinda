@@ -1,0 +1,157 @@
+/*nav bar*/
+
+.nav-item{
+  padding: 25px;
+}
+.navimage{
+ margin-right: 300px;
+ margin-left: 25px;
+ margin-top: 15px;
+ margin-bottom: 15px;
+}
+
+nav{
+  position: fixed;
+}
+
+/*first section*/
+.first{
+
+  padding-top: 70px;
+  padding-bottom: 25px;
+  padding-left: 150px;
+  padding-right: 100px;
+  background-image: url(https://home.paddycover.com/rhmo/img/banner%20-%20vector.png);
+
+  background-repeat: no-repeat;
+
+}
+.android{
+  height:450px;
+}
+/*second section*/
+.card-img-top{
+  height:100px;
+  width: 50px;
+  align-self: center;
+}
+.second{
+  padding: 100px;
+  text-align: center;
+}
+.card-text{
+  text-align: center;
+}
+.card{
+  margin:10px;
+}
+/*third section*/
+
+.round{
+  height: 100px;
+  width:120px;
+  margin: 50px;
+}
+.list-items{
+  display: flex;
+
+}
+.third{
+  padding-left: 150px;
+  padding-top: 10px;
+  padding-bottom: 100px;
+}
+.white-phone{
+  width: 200px;
+  height: 350px;
+  margin-right: 100px;
+}
+.paddy{
+  text-align: left;
+   font-size: 17px;
+  color: grey;
+  line-height: 0.5;
+}
+.pad{
+  margin-top: 35px;
+}
+.header{
+  font-weight: bold;
+  color: #4D49BE;
+  line-height: 0.8;
+
+
+}
+/*fourth section*/
+.fourth{
+  padding: 100px;
+  background-color: #273b4a;
+}
+.top{
+  padding-top: 10px;
+  height: 85px;
+  width:50px;
+}
+.why{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  padding-bottom: 30px;
+
+}
+.cardtitle{
+  text-align: center;
+  color: grey;
+}
+.cardtext{
+  text-align: center;
+  color: grey;
+}
+/*fifth section*/
+.fifth{
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-top: 100px;
+}
+.ctext{
+  text-align: center;
+  font-size: 12px;
+  color: grey;
+}
+.ctitle{
+  text-align: center;
+  color: grey;
+}
+.ref{
+  text-align: center;
+  color: grey;
+}
+.pic{
+  height: 120px;
+  width: 60px;
+}
+.btnlg{
+  margin-top: 55px;
+  margin-left: 380px;
+
+}
+.sixth{
+  padding-left: 420px;
+  padding-right: 300px;
+  padding-top: 100px;
+}
+
+.a{
+  margin-left: 20px;
+  text-decoration: none;
+  color: grey;
+  font-size: 15px;
+}
+h6{
+  margin-left: 500px;
+  font-size: 12px;
+  color: grey;
+}
+hr{
+  color: grey;
+}
